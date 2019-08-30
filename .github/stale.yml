@@ -20,3 +20,4 @@ unmarkComment: false
 closeComment: false
 # Limit to only `issues` or `pulls`
 # only: pulls
+
